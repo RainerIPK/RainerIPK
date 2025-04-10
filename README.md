@@ -7,7 +7,7 @@
 <h3 align="center">A passionate developer from Indonesia</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+profile!;I'm+a+full-stack+developer.;Let's+code+something+amazing!&center=true&width=320&height=45" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+profile!;I'm+an+AI+Enthusiast.;Let's+code+something+amazing!&center=true&width=320&height=45" alt="Typing SVG" />
 </p>
 
 ## About Me
